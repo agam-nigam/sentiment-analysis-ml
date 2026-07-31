@@ -59,10 +59,8 @@ Sentiment-Analysis-Using-Machine-Learning/
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-├── .gitignore
-└── assets/
-    ├── banner.png
-    └── preview.png
+└── .gitignore
+
 ```
 
 ---
@@ -125,7 +123,7 @@ tfidf_vectorizer.pkl
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-Using-Machine-Learning.git
+git clone https://github.com/agam-nigam/Sentiment-Analysis-Using-Machine-Learning.git
 ```
 
 Go inside the project
@@ -178,34 +176,6 @@ Sentiment Prediction
 
 ---
 
-## 📸 Application Preview
-
-### Home Page
-
-> Add screenshot here
-
-```
-assets/home.png
-```
-
-### Prediction
-
-> Add screenshot here
-
-```
-assets/prediction.png
-```
-
-### Dataset Explorer
-
-> Add screenshot here
-
-```
-assets/dataset.png
-```
-
----
-
 ## 📋 Requirements
 
 - Python 3.10+
@@ -248,9 +218,9 @@ Interested in:
 - Data Science
 - Software Development
 
-GitHub: **https://github.com/yourusername**
+GitHub: **https://github.com/agam-nigam**
 
-LinkedIn: **https://linkedin.com/in/yourprofile**
+LinkedIn: **https://linkedin.com/in/agam-n**
 
 ---
 
