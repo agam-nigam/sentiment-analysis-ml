@@ -1,0 +1,4 @@
+tfidf_vectorizer.pkl
+emotion_model.pkl
+cleaned_sentiment_dataset.csv
+best_sentiment_model.pkl
